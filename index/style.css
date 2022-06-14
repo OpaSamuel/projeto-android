@@ -72,7 +72,7 @@ main{
     border-bottom-right-radius: 10px;
     background-color: #fff;
     max-width: 850px;
-    min-width: 320px;
+    min-width: 300px;
     margin: auto;
 }
 main a {
